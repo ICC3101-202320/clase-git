@@ -11,6 +11,9 @@ La metodología que vamos a seguir es bla bla bla.
 Para comenzar vamos a bla bla bla.
 En segundo lugar bla bla bla.
 
+Consideremos el caso en que bla bla bla.
+
+
 # Conclusión
 
 En conclusión, en base a este arduo trabajo podemos decir que bla bla bla.
