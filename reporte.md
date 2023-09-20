@@ -6,4 +6,7 @@ El objetivo general de este trabajo es bla bla bla, y bla bla bla.
 
 # Desarrollo
 
+Para comenzar vamos a bla bla bla.
+En segundo lugar bla bla bla.
+
 # Conclusión
