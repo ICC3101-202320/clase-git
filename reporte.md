@@ -9,6 +9,9 @@ El objetivo general de este trabajo es bla bla bla, y bla bla bla.
 Para comenzar vamos a bla bla bla.
 En segundo lugar bla bla bla.
 
+Consideremos el caso en que bla bla bla.
+
+
 # Conclusión
 
 En conclusión, en base a este arduo trabajo podemos decir que bla bla bla.
