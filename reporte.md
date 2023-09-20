@@ -13,6 +13,8 @@ En segundo lugar bla bla bla.
 
 Consideremos el caso en que bla bla bla.
 
+Realizamos un estudio de bla bla bla.
+
 
 # Conclusión
 
