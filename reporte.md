@@ -10,3 +10,7 @@ Para comenzar vamos a bla bla bla.
 En segundo lugar bla bla bla.
 
 # Conclusión
+
+En conclusión, en base a este arduo trabajo podemos decir que bla bla bla.
+
+Adicionalmente bla bla bla.
